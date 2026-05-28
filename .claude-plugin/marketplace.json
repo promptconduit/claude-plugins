@@ -1,0 +1,23 @@
+{
+  "name": "promptconduit",
+  "description": "Official PromptConduit plugins for Claude Code",
+  "owner": {
+    "name": "PromptConduit",
+    "email": "support@promptconduit.dev"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "promptconduit",
+      "source": "promptconduit",
+      "description": "Skills and helpers for capturing AI assistant events with PromptConduit",
+      "category": "productivity",
+      "keywords": ["promptconduit", "observability", "ai-assistants", "claude-code"],
+      "homepage": "https://promptconduit.dev",
+      "repository": "https://github.com/promptconduit/claude-plugins",
+      "license": "MIT"
+    }
+  ]
+}

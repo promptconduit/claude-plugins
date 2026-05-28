@@ -1,0 +1,13 @@
+{
+  "name": "promptconduit",
+  "description": "Skills and helpers for capturing AI assistant events with PromptConduit",
+  "version": "0.1.0",
+  "author": {
+    "name": "PromptConduit",
+    "email": "support@promptconduit.dev"
+  },
+  "homepage": "https://promptconduit.dev",
+  "repository": "https://github.com/promptconduit/claude-plugins",
+  "license": "MIT",
+  "keywords": ["promptconduit", "observability", "ai-assistants", "claude-code"]
+}
