@@ -5,13 +5,10 @@
     "name": "PromptConduit",
     "email": "support@promptconduit.dev"
   },
-  "metadata": {
-    "pluginRoot": "./plugins"
-  },
   "plugins": [
     {
       "name": "promptconduit",
-      "source": "promptconduit",
+      "source": "./plugins/promptconduit",
       "description": "Skills and helpers for capturing AI assistant events with PromptConduit",
       "category": "productivity",
       "keywords": ["promptconduit", "observability", "ai-assistants", "claude-code"],
